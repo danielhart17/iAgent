@@ -108,6 +108,8 @@ A "LinkedIn for athletes", this app allows athletes to connect with prospective 
 
 ## Wireframes
 <img src="https://imgur.com/FM7Hv24.jpg" width=800><br>
+"Hamburger" Tab Bar View
+<img src="https://imgur.com/2PMBvJL.jpg" width=400><br>
 
 ### [BONUS] Digital Wireframes & Mockups
 Login/Signup & Create Account
